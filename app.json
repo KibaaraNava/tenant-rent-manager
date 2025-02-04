@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "tenant-rent-manager",
+    "slug": "tenant-rent-manager",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
