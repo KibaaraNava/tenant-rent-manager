@@ -3,6 +3,11 @@
     "name": "tenant-rent-manager",
     "slug": "tenant-rent-manager",
     "version": "1.0.0",
+    "splash": {
+      "image": "./assets/images/moringaconnectSplash.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#20B2AA"
+    },
     "assetBundlePatterns": [
       "**/*"
     ]
